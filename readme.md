@@ -18,7 +18,7 @@ A documentação das duas bibliotecas podem ser encotradas em:
 
 ## Compilando e rodando:
 
-No arquivo do [makefile](./makefile) as variáves _serverName_ e _clientName_ devem ser substituidas para o nome do arquivo do código do servidor e cliente que deseja compilar e/ou executar.  
+No arquivo do [makefile](./makefile) as variáveis _serverName_ e _clientName_ devem ser substituidas para o nome do arquivo do código do servidor e cliente que deseja compilar e/ou executar.  
 #### Compilando e rodando o server:
 	$ make server
 #### Compiando e rodando o client:
